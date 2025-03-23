@@ -1,0 +1,11 @@
+# Deps
+node_modules
+
+# Build
+build
+
+# Dotfiles
+.env
+
+# Tests
+coverage
